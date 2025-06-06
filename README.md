@@ -56,12 +56,6 @@ A fully functional Google clone/replica website built for educational and demons
 - Responsive design techniques
 - (Optional) Public search APIs for dynamic results
 
-## Screenshots
-
-<!-- Add screenshots in the `/screenshots` directory and link here -->
-![Homepage Screenshot](screenshots/homepage.png)
-![Results Page Screenshot](screenshots/results.png)
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!  
